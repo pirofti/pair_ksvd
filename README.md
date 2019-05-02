@@ -8,7 +8,7 @@ P. Irofti and B. Dumitrescu, “Pairwise Approximate K-SVD,” in Acoustics Spee
   booktitle = {Acoustics Speech and Signal Processing (ICASSP),
                2019 IEEE International Conference on},
   year = {2019},
-  pages = {1--5},
+  pages = {3677--3681},
 }
 ```
 
